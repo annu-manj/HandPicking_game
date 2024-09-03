@@ -6,9 +6,9 @@ The code is designed to create a simple hand-tracking game using OpenCV and Medi
 **MediaPipe:** A machine learning framework by Google, used here for detecting and tracking hand landmarks in the video feed.  
 **Numpy:** Utilized for calculating distances between the tracked hand landmarks and the on-screen target.    
 
-![Alt Text](relative/path/to/image.png)
-![Alt Text](relative/path/to/image.png)
-![Alt Text](relative/path/to/image.png)
+![image](/image/imag1.png)
+![image](/image/imag2.png)
+![image](/image/imag3.png)
 
 
 
